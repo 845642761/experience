@@ -1,4 +1,4 @@
-1：在github上创建项目，并拷贝其地址
+﻿1：在github上创建项目，并拷贝其地址
 	例：https://github.com/845642761/model.git
 	
 2：进入工作目录，克隆项目
@@ -9,6 +9,7 @@
 		git commit -m "说明"//提交到本地仓库
 		
 4：推送到github服务器
-	git push origin master
+	例：git push origin master
 	
-5：
+5：从服务器更新到本地仓库
+	例：git pull origin
