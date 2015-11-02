@@ -1,12 +1,14 @@
-1£ºÔÚgithubÉÏ´´½¨ÏîÄ¿£¬²¢¿½±´ÆäµØÖ·
-	Àı£ºhttps://github.com/845642761/model.git
+1ï¼šåœ¨githubä¸Šåˆ›å»ºé¡¹ç›®ï¼Œå¹¶æ‹·è´å…¶åœ°å€
+	ä¾‹ï¼šhttps://github.com/845642761/model.git
 	
-2£º½øÈë¹¤×÷Ä¿Â¼£¬¿ËÂ¡ÏîÄ¿
-	Àı£ºgit clone https://github.com/845642761/model.git
+2ï¼šè¿›å…¥å·¥ä½œç›®å½•ï¼Œå…‹éš†é¡¹ç›®
+	ä¾‹ï¼šgit clone https://github.com/845642761/model.git
 	
-3£ºÏò±¾µØ²Ö¿âÌí¼ÓÎÄ¼ş
-	Àı£ºgit add src//Ìí¼ÓÎÄ¼ş
-		git commit -m "ËµÃ÷"//Ìá½»µ½±¾µØ²Ö¿â
+3ï¼šå‘æœ¬åœ°ä»“åº“æ·»åŠ æ–‡ä»¶
+	ä¾‹ï¼šgit add src//æ·»åŠ æ–‡ä»¶
+		git commit -m "è¯´æ˜"//æäº¤åˆ°æœ¬åœ°ä»“åº“
 		
-4£ºÍÆËÍµ½github·şÎñÆ÷
+4ï¼šæ¨é€åˆ°githubæœåŠ¡å™¨
 	git push origin master
+	
+5ï¼š
