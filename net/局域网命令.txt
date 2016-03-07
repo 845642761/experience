@@ -6,3 +6,9 @@
 	
 3：根据计算机名称查看局域网ip
 	ping -4 XX(计算机名称)
+	
+4：端口使用情况
+	netstat -ano 列出所有端口的情况
+
+5：查看占用端口的程序
+	tasklist|findstr "XX"
